@@ -1,0 +1,2 @@
+# Biquadris
+Biquadris is a variant of the classic game Tetris. This is a custom version of the game, built in C++, for up to 9 player competition. This application was built from scratch by a team of 3 developers: Abhishek Patel, Rav Kundi, and myself (Emon Sen Majumder). This project utilizes the Model View Controller (MVC) design pattern for its overall design and also utilized the Factory Method pattern for block generation since blocks are level-dependant. 
