@@ -1,13 +1,13 @@
 # Biquadris
 Biquadris is a non-real time variant of the classic game of Tetris, expanded for two player competition. This is a C++ version of Biquadris, that was built from scratch by a team of 3 developers: Abhishek Patel, Rav Kundi, and myself (Emon Sen Majumder) over the course of two weeks. The architecture of this application is based OOP principles, and utilizes both the Model View Controller (MVC) design pattern for its overall design and also the Factory Method pattern for block generation since blocks are level-dependant.
 
-Text Display Examples:
+Text-based Display Examples:
 
 ![image](https://user-images.githubusercontent.com/55682406/134313295-47677310-cc9c-40d7-97a7-40854c8c7b82.png)
 
 ![image](https://user-images.githubusercontent.com/55682406/134313910-b999e264-55af-465c-b0e2-9cb39ecdad25.png)
 
-Graphics Display Examples (please ignore the glitched font, it is a recent bug introduced to XQuartz due to macOS Big Sur):
+Graphical Display Examples (please ignore the glitched font, it is a recent bug introduced to XQuartz due to the macOS Big Sur update):
 
 ![image](https://user-images.githubusercontent.com/55682406/134314245-f145754b-3f01-437e-8c60-7eb4223554ef.png)
 
