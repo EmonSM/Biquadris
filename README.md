@@ -7,6 +7,11 @@ Text Display Examples:
 
 ![image](https://user-images.githubusercontent.com/55682406/134313910-b999e264-55af-465c-b0e2-9cb39ecdad25.png)
 
+Graphics Display Examples (please ignore the glitched font, it is a recent bug introduced to XQuartz due to macOS Big Sur):
+
+![image](https://user-images.githubusercontent.com/55682406/134314245-f145754b-3f01-437e-8c60-7eb4223554ef.png)
+
+![image](https://user-images.githubusercontent.com/55682406/134314075-df44656b-3d67-4dd6-bc93-22320cd40400.png)
 
 Build Instructions (MacOS only):
 1. Install XQuartz - https://www.xquartz.org/. This is a version of the X Window System that runs on macOS, and is necessary to run the graphics portion of this application.
