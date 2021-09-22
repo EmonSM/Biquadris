@@ -2,6 +2,7 @@
 Biquadris is a non-real time variant of the classic game of Tetris, expanded for two player competition. This is a C++ version of Biquadris, that was built from scratch by a team of 3 developers: Abhishek Patel, Rav Kundi, and myself (Emon Sen Majumder) over the course of two weeks. The architecture of this application is based OOP principles, and utilizes both the Model View Controller (MVC) design pattern for its overall design and also the Factory Method pattern for block generation since blocks are level-dependant.
 
 Text Display Examples:
+
 ![image](https://user-images.githubusercontent.com/55682406/134313295-47677310-cc9c-40d7-97a7-40854c8c7b82.png)
 
 Build Instructions (MacOS only):
@@ -16,6 +17,7 @@ Build Instructions (MacOS only):
 Rules:
 A game of Biquadris consists of two boards, each 11 columns wide and 15 rows high. Blocks consisting of four cells (tetrominoes) appear at the top of each board, and you must drop them onto their respective boards so as not to leave any gaps. Once an entire row has been filled, it disappears, and the blocks above move down by one unit. Biquadris differs from Tetris in one significant way: it is not real-time. You have as much time as you want to decide where to place a block. Players will take turns rotating, moving, and dropping blocks, one at a time. A player’s turn ends when he/she has dropped a block onto the board. During a player’s turn, the block that the opponent will have to play next is already at the top board (and if it doesn’t fit, the opponent has lost). 
 There are seven types of blocks:
+
 ![image](https://user-images.githubusercontent.com/55682406/134312264-a17eefcb-537c-4231-bef1-b91d71e524ef.png)
 
 Controls:
