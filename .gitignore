@@ -1,3 +1,7 @@
 .DS_Store
-*.o
+
+# Prerequisites
 *.d
+
+# Compiled Object files
+*.o
