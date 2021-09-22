@@ -4,6 +4,7 @@ Biquadris is a non-real time variant of the classic game of Tetris, expanded for
 Text Display Examples:
 
 ![image](https://user-images.githubusercontent.com/55682406/134313295-47677310-cc9c-40d7-97a7-40854c8c7b82.png)
+
 ![image](https://user-images.githubusercontent.com/55682406/134313910-b999e264-55af-465c-b0e2-9cb39ecdad25.png)
 
 
